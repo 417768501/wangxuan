@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+  <bean name="person" class="com.hc.bean.Person"/>
+  <bean name="worker" class="com.hc.bean.Worker"/>
+</beans>
